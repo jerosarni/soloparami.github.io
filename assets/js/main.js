@@ -192,7 +192,7 @@
 		  
 			// Function to handle click on Spanish button
 			spanishBtn.addEventListener('click', function() {
-			  window.location.href = 'spindex.html';
+			  window.location.href = 'indexen.html';
 			});
 
 })(jQuery);
