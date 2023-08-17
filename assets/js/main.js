@@ -187,12 +187,12 @@
 		  
 			// Function to handle click on English button
 			englishBtn.addEventListener('click', function() {
-			  window.location.href = 'index.html';
+			  window.location.href = 'indexen.html';
 			});
 		  
 			// Function to handle click on Spanish button
 			spanishBtn.addEventListener('click', function() {
-			  window.location.href = 'indexen.html';
+			  window.location.href = 'index.html';
 			});
 
 })(jQuery);
